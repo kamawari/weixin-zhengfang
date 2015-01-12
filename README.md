@@ -24,11 +24,11 @@
 
 * 微信后台填写url，token默认为"weixin",详见[https://github.com/netputer/wechat-php-sdk](ttps://github.com/netputer/wechat-php-sdk) ,这个很久没更新了，可以换个包或者自己写。
 
-## 功能
+## 功能 (详见lib/function.php)
 
 * 查询图书馆 （好像是ILASIII系统）
 
-以下需要绑定学号密码
+ **以下需要绑定学号密码**
 * 查成绩
 * 查课表
 * 查考试安排
